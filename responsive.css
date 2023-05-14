@@ -1,0 +1,128 @@
+@media (max-width:1072px) {
+    header{
+        margin-top: 40px;
+    }
+    nav{
+        width: 100%;
+        margin: 0 auto;
+        justify-content: space-evenly;
+        
+    
+    }
+    .logo{
+        font-size: 40px;
+    }
+    nav ul{
+        width: 400px;
+    }
+    .user-container{
+        width: 60px;
+    }
+    .green-div{
+        width: 250px;
+        height: 1000px;
+        top: -40px;
+    }
+    .discover{
+        margin-left: 50px;
+        width: 50%;
+    }
+    .discover img{
+        width:350px ;
+    }
+    .input{
+        width: 600px;
+    }
+    .input button{
+        width: 150px;
+    }
+    .carusel{
+        width: 50%;
+    }
+    .img1{
+        width: 400px;
+    }
+    .img2{
+        width: 260px;
+        top: -83px;
+        left: 195px;
+    }
+    .img4,.img3{
+       width: 250px; 
+    }
+    .img4{
+        bottom: 446px;
+    }
+    .location{
+        margin-top: 0px;
+        width: 230px;
+    }
+    .some-container{
+        width: 90%;
+        padding: 0px;
+        margin: 0 auto;
+    }
+    .some-div-1{
+        height: 200px;
+    }
+    .some-div-1 h1{
+      
+        font-size: 30px;
+
+    }
+    .gallery-img-1{
+        width: 40%;
+        height: 500px;
+        margin: 0 5%;
+    }
+    .gallery-img-2{
+        width: 40%;
+        height: 500px;
+        margin: 0 5%;
+    }
+    .advance-container{
+        height: 550px;
+    }
+    .advance-book-img1{
+        width: 200px;
+        height: 732px;
+    }
+    .advance-book-img2{
+        width: 200px;
+    }
+    .advance-booking-input{
+
+    }
+    .advance{
+        height: 500px;
+    }
+    .free{
+        height: 500px;
+    }
+    .service-container{
+        margin-top: 50px;
+        height: 750px;
+    }
+    .explore__card-img{
+        height: 400px;
+    }
+    .app__img-mobile{
+        height: 600px;
+    }
+    .app__img-vegetable{
+        left: -52px;
+        width: 300px;
+    }
+    .app {
+        height: 600px;
+    }
+    .footer__img{
+        width: 300px;
+        height: 600px;
+        
+    }
+    footer{
+        height: 600px;
+    }
+
+}
